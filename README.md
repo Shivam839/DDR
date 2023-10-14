@@ -8,5 +8,8 @@
 ![image](https://github.com/Shivam839/DDR/assets/115664905/d8008c57-8196-4d58-b1d4-bb005daf5487)
 
 # Features - 
-a) Data can been added
-b) Data can been deleted
+a) Data can be added
+b) Data can be deleted
+
+# Hosting Link
+https://652ae7e1965ca764bbdb2af9--dreamy-cranachan-3f0bce.netlify.app/
