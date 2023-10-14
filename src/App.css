@@ -1,0 +1,45 @@
+.app{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color:#A7A1AE;
+  background-color:#1F2739;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+th{
+  color: #185875;
+  padding: 6px 12px;
+}
+input{
+  padding: 10px 20px;
+  outline: none;
+  border-bottom: 2px solid yellow;
+  background-color: #A7A1AE;
+}
+button{
+  padding: 5px 10px;
+  outline: none;
+  color: #185875;
+  background-color: #1F2739;
+  margin: 2px;
+}
+.logo{
+  display: flex;
+  align-items: center;
+}
+img{
+  border-radius: 50%;
+  margin: 20px;
+}
+span{
+  font-size: 25px;
+  color: #185875;
+  margin: 10px;
+}
+footer{
+  margin: 60px;
+  font-size: 20px;
+}
